@@ -40,3 +40,32 @@ The Animated Galaxy To-Do List is a simple, visually appealing task management a
 
 ## File Structure
 
+To-Do-Web-Animated-Application/
+│
+├── index.html # The main HTML file
+├── style.css # The CSS file for styling
+├── app.js # The JavaScript file for functionality
+├── galaxy (1).jpg # The background image
+├── README.md # The README file
+└── Screenshot.png # Screenshot of the project
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- Background image: [Galaxy Image](galaxy (1).png)
+- Icons: [Font Awesome](https://fontawesome.com/)
+- Inspiration: The vast and beautiful universe
+
+## Contact
+
+- **Author:** Sapna Madhavai
+- **Email:** madhavaisapna@gmail.com
+- **GitHub:** [SapnaMadhavai](https://github.com/SapnaMadhavai)
