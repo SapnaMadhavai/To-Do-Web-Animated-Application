@@ -4,7 +4,7 @@
 
 ## Description
 
-The Animated Galaxy To-Do List is a simple, visually appealing task management application. It features a beautiful, moving galaxy background and allows users to add, delete, and track tasks with a progress bar. When a task is completed, the completion date and time are displayed next to the task name.
+The To-Do-Web Animated Appliction is a simple, visually appealing task management application. It features a beautiful, moving galaxy background and allows users to add, delete, and track tasks with a progress bar. When a task is completed, the completion date and time are displayed next to the task name.
 
 ## Features
 
