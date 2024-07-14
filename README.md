@@ -1,6 +1,6 @@
 # To-Do-Web-Animated-Application
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ## Description
 
